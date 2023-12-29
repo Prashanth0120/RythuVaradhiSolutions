@@ -1,0 +1,38 @@
+*{
+    font-family: "Times New Roman", Times, serif;
+    
+}
+
+.header{
+    background-color: transparent;
+    
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    padding:40px 50px;
+    
+}
+
+.Navbar{
+    width:35%;
+
+    
+}
+
+.Nav-List{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+     font-size: 22px;
+     font-weight: bolder;
+     
+  
+
+}
+a{
+    color: black;
+}
+
+a:hover {
+    color: green;
+  }

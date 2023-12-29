@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+
+
+
+/* You can add more styling as needed */
+/* Carousel.css */
+.carousel-item {
+  height: 100vh; /* 100% of the viewport height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+   /* Set text color to white or adjust as needed */
+}
+
+
+
+/* Add more styling as needed */
+
+  
+  
+  
+.Home-Page1{
+  
+  
+background-image: url("https://i.postimg.cc/wxhwH7gz/dji-5331597.jpg");
+    height:100vh;
+    width:100%;
+    background-size: cover;
+    margin:0px;
+    padding:0px;
+  background-color: aqua;
+  }
+
+  .Home-Title{
+    height:120%;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;text-align: center;
+    
+  }
+
+  .Home-Page2{
+  
+    height:100vh;
+    width:100%;
+    background-size: cover;
+    margin:0px;
+    padding:0px;
+    
+
+  }
+
+  .Main-Cards-Container{
+    background: linear-gradient(to top, #2E8B57
+    , #ffffff);
+    height:100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+    
+  }
+
+  .Cards-Container{
+    display: flex;
+    justify-content:center;
+    /* Set the background of the element to a linear gradient */
+
+  }
+
+  .Each-Card{
+    width:350px;
+    text-align: left;
+    height:65vh;
+    background-color: #ffff;
+    border-radius: 5px;
+    margin:6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .Card-Icons{
+    
+    color: #ffffff !important;
+    background-color: #2E8B57;
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+
+    padding: '10px' ;
+    color: '#ffffff';
+    font-size: 24px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:5px;
+  }
+
+  .Icons{
+    font-size: 50px;
+    color:#ffffff !important;
+  }
+
+  .Vision-Image{
+    background-image: url("https://i.postimg.cc/fLCk6VNd/visionn.jpg");
+    height:130vh;
+    width:100%;
+    background-size: cover;
+    display: flex;
+    justify-content: Left;
+    align-items: flex-start;
+  }
+
+  .Our-Vision-Container{
+    margin-top:100px;
+    margin-left:100px;
+  
+  }
+
+  .Our-Vision{
+    color:#DF6520;
+    font-size: 40px;
+  
+  }
+
+  .Our-Vision-Para{
+    width:400px;
+    font-weight: 500px;
+    font-size: 25px;
+    color:#ffffff;
+  }
+
+  
+  .Mission-Image{
+    background-image: url("https://i.postimg.cc/BQ3Xhkwr/smart-agriculture-2.jpg");
+    height:130vh;
+    width:100%;
+    background-size: cover;
+    display: flex;
+    justify-content: Right;
+    align-items: flex-start;
+  }
+  
+
+  .Our-Mission-Container{
+    margin-top:110px;
+    margin-Right:80px;
+  
+  }
+
+
+
+
