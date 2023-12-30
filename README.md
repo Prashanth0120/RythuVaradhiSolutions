@@ -51,15 +51,15 @@ Specialized electrical services for modern farming practices on the time.
 •	Access to tractors and modern farming equipment.
 •	Affordable rentals without the financial burden.
 •	Enhance farming capabilities and outcomes.
+
+
 5.Cold and Dry Storage:
- 
-State-of-the-art facilities for preserving and extending the shelf life of perishable goods. For example : chilli , paddy …so on
+ State-of-the-art facilities for preserving and extending the shelf life of perishable goods. For example : chilli , paddy …so on
 6.Equipment Rental for Co-farmers:
 A platform facilitating the rental of agricultural equipment among co-farmers, fostering collaboration and resource-sharing.
- 
-•	Monetize idle implements by renting to co-farmers.
-•	Earn extra income while helping fellow farmers.
-•	Promote resource efficiency and community collaboration.
+ •	Monetize idle implements by renting to co-farmers.
+ •	Earn extra income while helping fellow farmers.
+ •	Promote resource efficiency and community collaboration.
 
 
 
